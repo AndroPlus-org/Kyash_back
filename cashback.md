@@ -67,6 +67,10 @@
 <td>Origami Pay</td>
 <td>対象</td>
 </tr>
+<tr>
+<td>PayPay</td>
+<td>対象</td>
+</tr>
 </tbody></table>
 <h1> </h1>
 <h1 id="id-2018-05-29Cashback仕様fix-キャッシュバック率">キャッシュバック率</h1>
