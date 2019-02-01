@@ -5,31 +5,34 @@
 <li>Kyash Visaリアルカードによる決済</li>
 <li>Kyash Visaバーチャル/リアルカードを登録したQUICPayによる決済</li>
 </ul>
-<p><br><strong><span class="wysiwyg-underline">上記のうち、売上が成立している取引が対象となります</span>。</strong><br><br>※売上成立月でのカウントとなります。<br>例：<br>6/25に1,000円の商品を購入（仮売上の状態）<br>7/5に1,000円の売上電文を受信（売上成立）<br>8月末にキャッシュバックとして20円を付与（7月分の対象）<br><br>※チャージ方法等は問いません</p>
+<p><strong><span class="wysiwyg-underline">上記のうち、売上が成立している取引が対象となります</span>。<br><br></strong>※売上成立月でのカウントとなります。<br>例：<br>6/25に1,000円の商品を購入（仮売上の状態）<br>7/5に1,000円の売上電文を受信（売上成立）<br>8月末にキャッシュバックとして20円を付与（7月分の対象）<br><br>※チャージ方法は問いません</p>
 <h1>対象外の取引</h1>
 <ul>
-<li>お買い物キャンセルとなった決済<br>※キャンセルが月またぎの場合は次月相殺いたします</li>
-<li>カード有効性チェックでの減算</li>
-<li>前払式支払手段（第三者型）の購入、チャージ<br>WAON/nanaco/楽天Edyなど</li>
-<li>モバイルSuicaアプリでの購入、チャージ<br>※1回につき6,000円以上のご利用分は対象となります</li>
-<li>Google Pay経由によるモバイルSuicaアプリでの購入、チャージ<br>※1回につき6,000円以上のご利用分は対象となります</li>
-<li>寄付のお支払い</li>
-<li>公共料金のお支払い</li>
-<li>各種税金、ふるさと納税のお支払い</li>
-<li>年金のお支払い</li>
-<li>Yahoo!公金支払い</li>
-<li>金券、商品券や有価証券等の現金同等物の購入<br>また金券、商品券や有価証券等の現金同等物を販売しているサイトでの購入
+<li>
+<span class="wysiwyg-color-black70">お買い物キャンセルとなった決済</span><br><span class="wysiwyg-color-black70">※キャンセルが月またぎの場合は次月相殺いたします</span>
+</li>
+<li><span class="wysiwyg-color-black70">カード有効性チェックでの減算</span></li>
+<li>
+<span class="wysiwyg-color-black70">前払式支払手段（第三者型）の購入、チャージ</span><br><span class="wysiwyg-color-black70">WAON/nanaco/楽天Edyなど</span>
+</li>
+<li><span class="wysiwyg-color-black70">モバイルSuicaアプリでの購入、チャージ <span class="wysiwyg-color-red">※</span></span></li>
+<li><span class="wysiwyg-color-black70">Google Pay経由によるモバイルSuicaアプリでの購入、チャージ <span class="wysiwyg-color-red">※</span></span></li>
+<li><span class="wysiwyg-color-black wysiwyg-color-black70">交通系電子マネー<br>PASMO/SMART ICOCA/SAPICA/PiTaPa/SUGOCAなど</span></li>
+<li><span class="wysiwyg-color-black70">寄付のお支払い</span></li>
+<li><span class="wysiwyg-color-black70">公共料金のお支払い</span></li>
+<li><span class="wysiwyg-color-black70">各種税金、ふるさと納税のお支払い</span></li>
+<li><span class="wysiwyg-color-black70">年金のお支払い</span></li>
+<li><span class="wysiwyg-color-black70">Yahoo!公金支払い</span></li>
+<li>
+<span class="wysiwyg-color-black70">金券、商品券や有価証券等の現金同等物の購入</span><br><span class="wysiwyg-color-black70">また金券、商品券や有価証券等の現金同等物を販売しているサイトでの購入</span>
 <ul>
-<li>郵便局の販売サイト</li>
+<li>
+<span class="wysiwyg-color-black70">郵便局の販売</span>サイト</li>
 <li>造幣局の販売サイト</li>
 </ul>
 </li>
 </ul>
-<p>※モバイルSuicaへのチャージ、購入について<br>チャージやモバイルSuicaアプリ内での決済は、6,000円以上（1回のチャージ金額または1回の決済金額）がキャッシュバック対象となります</p>
-<ul>
-<li>例：6月に１回のチャージで6,000円チャージした場合は6,000円の2％（120円）が7月末までにKyash残高にキャッシュバックされます。</li>
-<li>例：１回5,000円のチャージを2回した場合は、1回のチャージ金額が6,000円未満のため累計額に関わらずキャッシュバック対象外となります。</li>
-</ul>
+<p><span class="wysiwyg-color-red">※モバイルSuicaへのチャージ、購入について2019年2月3日0時以降のお取引より対象外となります。</span><br><span class="wysiwyg-color-red">2019年2月2日までの6,000円以上/回のお取引で、2019年2月末日までに売上が成立している場合のみ対象となります。</span></p>
 <h1>よくあるお問い合わせの加盟店</h1>
 <table><tbody>
 <tr>
@@ -95,11 +98,12 @@
 </ul>
 <h1>キャッシュバックの締め日と付与日</h1>
 <ul>
-<li>当月1日から末日ご利用の対象分を翌月25日から末日までに付与いたします。</li>
+<li>当月1日から末日ご利用の対象分を<span class="wysiwyg-underline">翌月25日から末日まで</span>に付与いたします。</li>
 </ul>
 <h1>確認と付与方法</h1>
 <ul>
-<li>Kyash残高として付与いたしますので、付与後に履歴ページでご確認いただけます。<br><br>※Kyash残高として付与されるため直後の決済、送金に優先的に充当されますので、付与されていないと誤認することがございますが、直後のお取引の明細（該当お取引をタップ）にて確認いただけます。</li>
+<li>Kyash残高として付与いたしますので、付与後に履歴ページでご確認いただけます。</li>
+<li>Kyash残高として付与されるため直後の決済、送金に優先的に消費されますので、付与されていないと誤認することがございますが、直後のお取引の明細（該当お取引をタップし支払元を参照）にて確認いただけます。</li>
 </ul>
 <h1>注意事項</h1>
 <ul>
