@@ -9,7 +9,7 @@
 <h1>対象外の取引</h1>
 <ul>
 <li>
-<span class="wysiwyg-color-black70">お買い物キャンセルとなった決済</span><br><span class="wysiwyg-color-black70">※キャンセルが月またぎの場合は次月相殺いたします</span>
+<span class="wysiwyg-color-black70">お買い物キャンセルとなった決済（一部キャンセルが生じた決済も含みます）</span><br><span class="wysiwyg-color-black70">※キャンセルが月またぎの場合は次月相殺いたします</span>
 </li>
 <li><span class="wysiwyg-color-black70">カード有効性チェックでの減算</span></li>
 <li>
@@ -98,12 +98,12 @@
 </ul>
 <h1>キャッシュバックの締め日と付与日</h1>
 <ul>
-<li>当月1日から末日ご利用の対象分を<span class="wysiwyg-underline">翌月25日から末日まで</span>に付与いたします。</li>
+<li>当月1日から末日ご利用の対象分を<span class="wysiwyg-color-red">翌月</span>25日から末日までに付与いたします。</li>
 </ul>
 <h1>確認と付与方法</h1>
 <ul>
 <li>Kyash残高として付与いたしますので、付与後に履歴ページでご確認いただけます。</li>
-<li>Kyash残高として付与されるため<span class="wysiwyg-underline">直後の決済、送金に優先的に消費されます</span>ので、付与されていないと誤認することがございますが、直後のお取引の明細（該当お取引をタップし支払元を参照）にて確認いただけます。</li>
+<li>Kyash残高として付与されるため<span class="wysiwyg-color-red">直後の決済、送金に優先的に消費されます</span>ので、付与されていないと誤認することがございますが、<span class="wysiwyg-underline">直後のお取引の明細（該当お取引をタップし支払元を参照）にて確認いただけます</span>。</li>
 </ul>
 <h1>注意事項</h1>
 <ul>
