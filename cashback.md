@@ -1,7 +1,7 @@
 
 <h1>重要なお知らせ（2019/09/05）</h1>
-<p><span class="wysiwyg-color-red80">2019年10月1日のお取引より「Kyashポイント」の付与を開始いたします。</span></p>
-<p><span class="wysiwyg-color-red80">Kyashポイントの開始に伴い2％キャッシュバック制度につきましては、2019年9月30日までのお取引を対象とし、2019年12月下旬の付与をもちまして終了とさせていただきます。</span></p>
+<p><span class="wysiwyg-color-red">2019年10月1日のお取引より「Kyashポイント」の付与を開始いたします。</span></p>
+<p><span class="wysiwyg-color-red">Kyashポイントの開始に伴い2％キャッシュバック制度につきましては、2019年9月30日までのお取引を対象とし、2019年12月下旬の付与をもちまして終了とさせていただきます。</span></p>
 <p>詳細については<a href="https://news.kyash.co/post/187501433099/20190905" target="_self">こちらのページ</a>をご確認ください。</p>
 <p> </p>
 <h1>キャッシュバック対象となる取引</h1>
@@ -20,8 +20,12 @@
 <li>
 <span class="wysiwyg-color-black70">前払式支払手段（第三者型）の購入、チャージ</span><br><span class="wysiwyg-color-black70">WAON/nanaco/楽天Edyなど</span>
 </li>
-<li><span class="wysiwyg-color-black70">モバイルSuicaアプリでの購入、チャージ <span class="wysiwyg-color-red">※</span></span></li>
-<li><span class="wysiwyg-color-black70">Google Pay経由によるモバイルSuicaアプリでの購入、チャージ <span class="wysiwyg-color-red">※</span></span></li>
+<li>
+<span class="wysiwyg-color-black70">モバイルSuicaアプリでの購入、チャージ </span><span class="wysiwyg-color-red">※</span>
+</li>
+<li>
+<span class="wysiwyg-color-black70">Google Pay経由によるモバイルSuicaアプリでの購入、チャージ </span><span class="wysiwyg-color-red">※</span>
+</li>
 <li><span class="wysiwyg-color-black wysiwyg-color-black70">交通系電子マネー<br>PASMO/SMART ICOCA/SAPICA/PiTaPa/SUGOCAなど</span></li>
 <li><span class="wysiwyg-color-black70">寄付のお支払い</span></li>
 <li><span class="wysiwyg-color-black70">公共料金のお支払い</span></li>
@@ -37,7 +41,7 @@
 </ul>
 </li>
 </ul>
-<p><span class="wysiwyg-color-red80">※モバイルSuicaへのチャージ、購入について2019年2月3日0時以降のお取引より対象外となります。</span><br><span class="wysiwyg-color-red80">2019年2月2日までの6,000円以上/回のお取引で、2019年2月末日までに売上が成立している場合のみ対象となります。</span></p>
+<p><span class="wysiwyg-color-red">※モバイルSuicaへのチャージ、購入について2019年2月3日0時以降のお取引より対象外となります。</span><br><span class="wysiwyg-color-red">2019年2月2日までの6,000円以上/回のお取引で、2019年2月末日までに売上が成立している場合のみ対象となります。</span></p>
 <h1>よくあるお問い合わせの加盟店</h1>
 <table><tbody>
 <tr>
@@ -108,7 +112,7 @@
 <h1>確認と付与方法</h1>
 <ul>
 <li>Kyash残高として付与いたしますので、付与後に履歴ページでご確認いただけます。</li>
-<li>Kyash残高として付与されるため<span class="wysiwyg-color-red80">直後の決済、送金に優先的に消費されます</span>ので、付与されていないと誤認することがございますが、<span class="wysiwyg-underline">直後のお取引の明細（該当お取引をタップし支払元を参照）にて確認いただけます</span>。</li>
+<li>Kyash残高として付与されるため<span class="wysiwyg-color-red">直後の決済、送金に優先的に消費されます</span>ので、付与されていないと誤認することがございますが、<span class="wysiwyg-underline">直後のお取引の明細（該当お取引をタップし支払元を参照）にて確認いただけます</span>。</li>
 </ul>
 <h1>注意事項</h1>
 <ul>
