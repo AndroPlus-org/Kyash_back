@@ -107,7 +107,7 @@
 </ul>
 <h1>キャッシュバックの締め日と付与日</h1>
 <ul>
-<li>当月1日から末日ご利用の対象分を<span class="wysiwyg-color-red80">翌月</span>25日から末日までに付与いたします。</li>
+<li>当月1日から末日ご利用の対象分を<span class="wysiwyg-color-red">翌月</span>25日から末日までに付与いたします。</li>
 </ul>
 <h1>確認と付与方法</h1>
 <ul>
