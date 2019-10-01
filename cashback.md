@@ -2,7 +2,7 @@
 <h1>重要なお知らせ（2019/09/05）</h1>
 <p><span class="wysiwyg-color-red">2019年10月1日のお取引より「Kyashポイント」の付与を開始いたします。</span></p>
 <p><span class="wysiwyg-color-red">Kyashポイントの開始に伴い2％キャッシュバック制度につきましては、2019年9月30日までのお取引を対象とし、2019年12月下旬の付与をもちまして終了とさせていただきます。</span></p>
-<p>詳細については<a href="https://news.kyash.co/post/187501433099/20190905" target="_self">こちらのページ</a>をご確認ください。</p>
+<p>Kyashポイントの詳細につきましては<a href="/hc/ja/articles/360033212772" target="_self">Kyashポイントについて</a>をご確認ください。</p>
 <p> </p>
 <h1>キャッシュバック対象となる取引</h1>
 <ul>
